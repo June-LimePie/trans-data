@@ -9,6 +9,9 @@ Vue3
 Next.js
 Vuetify3 
 ### Back End
+Node.JS
+Serverless (AWS - Lambda) https://www.serverless.com/framework/docs/providers/aws/guide/intro
 Webiny - https://www.webiny.com/docs/get-started/install-webiny
+DynamoDB
 ### Data Security
 
