@@ -6,7 +6,7 @@ Results of the 2020 US census show that .5% of Americans are transgender.  Medic
 To track and normalize the data around transition to provide transgender people with a better understanding of how medications, procedures, and other actions they take impact their transition.
 
 ## Stack
-This project will be primarily based in Javascript with Vue3 and Next.js managin the front end with serverless microservices and DynamoDB on the back end.  This stack is meant to be low cost to run, maintain, and scale.
+This project will be primarily based in Javascript with Vue3 and Next.js managin the front end with serverless microservices and DynamoDB on the back end.  This stack is meant to be low cost to run, maintain, and scale.  This project is built to utilize a number of AWS services and is specifically built for the AWS infrastructure.
 
 ### Front End
 Vue3
@@ -22,7 +22,9 @@ Serverless (AWS - Lambda) https://www.serverless.com/framework/docs/providers/aw
 
 Webiny - https://www.webiny.com/docs/get-started/install-webiny
 
-DynamoDB
+DynamoDB - 
+
+Congnito - https://aws.amazon.com/cognito/
 
 ### Data Security
 
